@@ -1,4 +1,4 @@
-# mostra as unidades, dezenas, centenas e milhares e um número
+# mostra as unidades, dezenas, centenas e milhares de um número
 num = int(input('Digite um número: '))
 unidade = num // 1 % 10
 dezena = num // 10 % 10
